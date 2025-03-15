@@ -1,1 +1,1 @@
-# crypto_wallet_ui-main
+Crypto Wallet UI is a beautifully designed mobile application built with Flutter, featuring a sleek and modern user interface for managing cryptocurrency assets. This UI template provides an intuitive experience for users to track balances, view transactions, and interact with a crypto wallet seamlessly.
